@@ -35,7 +35,6 @@
                 <h4 class="modal-title">Cab Fare</h4>
               </div>
               <div class="modal-body" id="display">
-              <form action="emailOtpCheck.php" method='post' id="myotp">
                 <h2>verify OTP</h2>
                 <label for="verify">Verify Email</label>
                 <input type="number" name="verify" id="verify" placeholder="Enter OTP">
